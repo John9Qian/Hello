@@ -17,6 +17,7 @@ namespace Hello
             Console.ForegroundColor = ConsoleColor.Yellow;
             System.Console.WriteLine("Hello World!");
             Console.ResetColor();
+            Console.WriteLine("Hello World");
         }
     }
 }
